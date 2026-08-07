@@ -13,7 +13,7 @@ Hi, I'm Om — documenting my journey learning offensive security and VAPT
 
 | Platform | Topic | Category | Link |
 |---|---|---|---|
-| TryHackMe | Pre Security | Foundations | [View](./TryHackMe/Pre-Security/progress.md) |
+| TryHackMe | Networking Fundamentals | Networking | [View](./TryHackMe/CyberSec101/Networking-Fundamentals/writeup.md) |
 
 ## 📜 Currently Learning
 - TryHackMe Cyber Security 101 (Networking, Linux, Windows, Active Directory)
