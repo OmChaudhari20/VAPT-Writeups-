@@ -20,4 +20,4 @@ Hi, I'm Om — documenting my journey learning offensive security and VAPT
 - Windows PowerShell
 
 ## 📫 Connect
-- LinkedIn: [your profile link]
+- LinkedIn: https://www.linkedin.com/in/om-chaudhari-3221b72b0/
