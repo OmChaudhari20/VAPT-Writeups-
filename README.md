@@ -1,26 +1,28 @@
-# VAPT & Penetration Testing Writeups
+# VAPT Learning Journal
 
-Hi, I'm Om — documenting my journey learning offensive security and VAPT 
-(Vulnerability Assessment & Penetration Testing) through TryHackMe, hands-on labs, and CTFs.
+Hi, I'm Om, an M.Sc. Cyber Security & Forensics student at Gujarat University.
+This repo is my learning log for VAPT: labs, CTFs, notes and tools.
+I'm a beginner, so each entry says what I tried, where I got stuck and what I learned.
 
-## 🔧 Skills Demonstrated
-- Networking Fundamentals (OSI Model, TCP/IP, DNS)
-- Linux Fundamentals
-- Windows Fundamentals & Active Directory Basics
-- Web Application Basics
+## Progress
 
-## 📁 Writeups
-| Platform | Topic | Category | Link |
-|---|---|---|---|
-| TryHackMe | Networking Fundamentals | Networking | [View](./TryHackMe/CyberSec101/Networking-Fundamentals/writeup.md) |
-| TryHackMe | Linux Fundamentals | Linux | [View](./TryHackMe/CyberSec101/Linux-Fundamentals/writeup.md) |
-| TryHackMe | Windows Fundamentals | Windows | [View](./TryHackMe/CyberSec101/Windows-Fundamentals/writeup.md) |
-| TryHackMe | Windows Command Line | Windows | [View](./TryHackMe/CyberSec101/Windows-Command-Line/writeup.md) |
-| TryHackMe | Active Directory Basics | Active Directory | [View](./TryHackMe/CyberSec101/Active-Directory-Basics/writeup.md) |
+| Date | Platform | Topic | Category | Status | Link |
+|---|---|---|---|---|---|
+| - | TryHackMe | Networking Fundamentals | Networking | Completed | [Notes](link) |
+| - | TryHackMe | Linux Fundamentals | Linux | Completed | [Notes](link) |
+| - | TryHackMe | Windows Fundamentals | Windows | Completed | [Notes](link) |
+| - | TryHackMe | Windows Command Line | Windows | Completed | [Notes](link) |
+| - | TryHackMe | Active Directory Basics | Active Directory | Completed | [Notes](link) |
+| 28 Mar 2026 | Kaalchakra CTF (NFSU Goa) | National-level CTF, team CyberCiphers | Mixed | Participated | [Log](link) |
+| 19 Sep 2026 | Null Origin CTF (CyberHX) | 24-hour international CTF | Mixed | Participated | [Log](link) |
 
-## 📜 Currently Learning
-- TryHackMe Cyber Security 101 (Networking, Linux, Windows, Active Directory)
-- Windows PowerShell
+## Projects
+- [web-vuln-crawler](link): crawler that finds web vulnerabilities and maps them to the page where they appear
+- [malware-security-analyzer](link): website/file checker with VirusTotal, SSL checks and risk scoring
 
-## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/om-chaudhari-3221b72b0/
+## Currently learning
+- learing on tryhackme , portswigger and finding the bug from hackerone.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/om-chaudhari-vapt
+- Email: omchaudhari0804@gmail.com
