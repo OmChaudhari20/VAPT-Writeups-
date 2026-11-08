@@ -13,12 +13,7 @@ I'm a beginner, so each entry says what I tried, where I got stuck and what I le
 | - | TryHackMe | Windows Fundamentals | Windows | Completed | [Notes](link) |
 | - | TryHackMe | Windows Command Line | Windows | Completed | [Notes](link) |
 | - | TryHackMe | Active Directory Basics | Active Directory | Completed | [Notes](link) |
-| 28 Mar 2026 | Kaalchakra CTF (NFSU Goa) | National-level CTF, team CyberCiphers | Mixed | Participated | [Log](link) |
-| 19 Sep 2026 | Null Origin CTF (CyberHX) | 24-hour international CTF | Mixed | Participated | [Log](link) |
 
-## Projects
-- [web-vuln-crawler](link): crawler that finds web vulnerabilities and maps them to the page where they appear
-- [malware-security-analyzer](link): website/file checker with VirusTotal, SSL checks and risk scoring
 
 ## Currently learning
 - learing on tryhackme , portswigger and finding the bug from hackerone.
